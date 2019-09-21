@@ -1,1 +1,1 @@
-# java_test_project
+test Git opportunities
